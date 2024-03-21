@@ -66,3 +66,4 @@ window.addEventListener("resize", () => {
         searchIcon.classList.replace("fa-times", "fa-search")
         searchForm.classList.remove("show");
     }})
+    
